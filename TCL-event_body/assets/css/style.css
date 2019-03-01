@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+html, body {
+    font-family: 'Open Sans', sans-serif; 
+    }
+.title{
+    font-weight: Bold;
+    text-decoration: none;
+}
+.txt{
+    font-weight: Bold;  
+}
+.icon {
+    width: 35px;
+}
+.top-left {
+    color: white;
+    position: absolute;
+    top: 48px;
+    margin-top: 15px;
+  }
+.shade {
+  /* padding: 10px; */
+  box-shadow: 1px 3px 7px 2px #EEEEEE;
+ }
+ .pointer {
+     cursor: pointer;
+    }

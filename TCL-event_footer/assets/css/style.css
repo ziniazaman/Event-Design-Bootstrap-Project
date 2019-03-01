@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+html, body {
+    font-family: 'Open Sans', sans-serif; 
+    }
+    /* footer head css starts here */
+.footer_head{
+    border-top: 2px groove;
+    color: #607D8B;
+    font-size: 14px;
+}
+/* .payment{
+    font-size: 14px;
+    width: 450px;  
+}
+*/
+.payment{
+    padding-left: 3px;  
+    padding-bottom: 15px;
+    color: #808A97;
+}
+.call{
+    padding-left: 265px;
+    padding-bottom: 15px;
+}
+.line{
+    color: #808A97;
+}
+.follow{
+    padding-left: 42px;
+    padding-bottom: 15px;
+    color: #808A97;
+} 
+.footer_body{
+    font-size: 14px;
+}
+.phn{
+    position: absolute;
+    right: 275px;
+    border-right: 2px solid;
+    border-color: #F5F5F5;
+}
+.number{
+    color:#686C86;
+    padding: 3px;
+    font-weight: bold;
+}
+.ft{
+    border-bottom: 2px solid;  
+    border-color: #F5F5F5;
+}
+.space{
+    padding-right: 2px;
+}
+.gap {
+    padding-right: 6px;
+}
+.gap_in_card_img{
+    width: 42px;
+    height: 25px;
+}
+    /* footer head css ends here */
+    /* footer body css starts here */
+.table_heading{
+    color: #3E405A;
+    font-weight: bold;
+}   
+.text_size{
+    color: #808A97;
+}
+.text_line{
+    text-decoration: underline;
+}
+    /* footer body css ends here */
+    /* footer logo img starts here */
+.image{
+    padding-left: 18px;  
+    margin-top: 10px; 
+    float: left;
+    width: 150px;
+}
+.main-foooter{
+    float: left;
+    width: 790px;  
+}
+.blank_1{
+    padding-left: 190px; 
+    font-size: 11px;
+    color: #808A97;
+}
+.blank_2{
+    padding-left: 233px; 
+    font-size: 11px;
+    color: #808A97;
+
+}
+.color{
+    color: #3E405A;
+    text-decoration: underline;
+}
+.imo{
+    color: #b71c1c; 
+}
+    /* footer logo img ends here */
